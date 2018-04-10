@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="LTI_TestSuite" duration-ms="73882" started-at="2018-04-10T07:17:45Z" finished-at="2018-04-10T07:18:59Z">
+    <groups>
+    </groups>
+    <test name="Test-class test" duration-ms="73882" started-at="2018-04-10T07:17:45Z" finished-at="2018-04-10T07:18:59Z">
+      <class name="appium.SampleTC_Minty">
+        <test-method status="PASS" signature="createAppiumDriver()[pri:0, instance:appium.SampleTC_Minty@6a41eaa2]" name="createAppiumDriver" is-config="true" duration-ms="47749" started-at="2018-04-10T12:47:45Z" finished-at="2018-04-10T12:48:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAppiumDriver -->
+        <test-method status="PASS" signature="sampeTest()[pri:0, instance:appium.SampleTC_Minty@6a41eaa2]" name="sampeTest" duration-ms="25000" started-at="2018-04-10T12:48:33Z" finished-at="2018-04-10T12:48:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampeTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:appium.SampleTC_Minty@6a41eaa2]" name="afterTest" is-config="true" duration-ms="1097" started-at="2018-04-10T12:48:58Z" finished-at="2018-04-10T12:48:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- appium.SampleTC_Minty -->
+    </test> <!-- Test-class test -->
+  </suite> <!-- LTI_TestSuite -->
+</testng-results>

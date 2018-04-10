@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14338" started-at="2018-03-29T12:04:53Z" finished-at="2018-03-29T12:05:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14338" started-at="2018-03-29T12:04:53Z" finished-at="2018-03-29T12:05:07Z">
+      <class name="TestGridPackage.testGridSetup_Chrome">
+        <test-method status="PASS" signature="setupTest_Chrome()[pri:0, instance:TestGridPackage.testGridSetup_Chrome@4cc0edeb]" name="setupTest_Chrome" is-config="true" duration-ms="5094" started-at="2018-03-29T17:34:53Z" finished-at="2018-03-29T17:34:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest_Chrome -->
+        <test-method status="PASS" signature="simpleTest()[pri:0, instance:TestGridPackage.testGridSetup_Chrome@4cc0edeb]" name="simpleTest" duration-ms="9028" started-at="2018-03-29T17:34:58Z" finished-at="2018-03-29T17:35:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- simpleTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:TestGridPackage.testGridSetup_Chrome@4cc0edeb]" name="afterTest" is-config="true" duration-ms="199" started-at="2018-03-29T17:35:07Z" finished-at="2018-03-29T17:35:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- TestGridPackage.testGridSetup_Chrome -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
