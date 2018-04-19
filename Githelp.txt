@@ -14,7 +14,8 @@ git remote add origin https://github.com/MobilityTester/AndroidWear.git
 *To push content from local machine to remote machine / repository
 git push -u origin master
 
-
+*to view status of local 
+git status 
 ~~~~~~~~~~~~~~~~
 *TO CHECK IF THERE ARE ANY UPDATE ON REMOTE MACHINE / REPOSITORY AND UPDATE LOCAL REPOSITORY 
 * To get remote reference up to date
