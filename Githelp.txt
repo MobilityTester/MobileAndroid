@@ -1,0 +1,31 @@
+
+
+GIT COMMANDS: 
+
+*first time required to initialise git repository 
+git init 
+
+*To commit changes to local repository
+git commit -m "Some comment"
+
+*To upload content to git repository (only first time required) 
+git remote add origin https://github.com/MobilityTester/AndroidWear.git
+
+*To push content from local machine to remote machine / repository
+git push -u origin master
+
+
+~~~~~~~~~~~~~~~~
+*TO CHECK IF THERE ARE ANY UPDATE ON REMOTE MACHINE / REPOSITORY AND UPDATE LOCAL REPOSITORY 
+* To get remote reference up to date
+git remote update
+
+*TO check if local branch is ahead / behind or has diverged. If nothing then remote and local are same
+git status -uno
+
+* To download changes from remote to local 
+git pull 
+
+
+
+ 
