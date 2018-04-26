@@ -1,4 +1,4 @@
-# Appium Sample Tests for AWS Device Farm Sample App
+# Appium Sample Tests for AWS Device Farm Sample App UPDATED AS PER THE CHANGES IN NEW APPIUM VERSION 1.8.0
 This is a collection of example Appium TestNG tests written for the AWS Device Farm [Android](https://github.com/awslabs/aws-device-farm-sample-app-for-android) sample app. Please use these tests as a reference for your own AWS Device Farm Appium TestNG tests.
 
 **This test suite uses the [Appium page model](http://appium.io/slate/en/tutorial/android?java#page-object-pattern) in order to separate the tests from the logic.**
