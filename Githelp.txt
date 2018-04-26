@@ -5,6 +5,9 @@ GIT COMMANDS:
 *first time required to initialise git repository 
 git init 
 
+* add file
+git add . 
+
 *To commit changes to local repository
 git commit -m "Some comment"
 

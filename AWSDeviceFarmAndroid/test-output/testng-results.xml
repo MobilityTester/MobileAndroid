@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="38314" started-at="2018-04-26T13:02:02Z" finished-at="2018-04-26T13:02:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="38314" started-at="2018-04-26T13:02:02Z" finished-at="2018-04-26T13:02:40Z">
+      <class name="Tests.WebViewTest">
+        <test-method status="PASS" signature="setUpAppium()[pri:0, instance:Tests.WebViewTest@6e06451e]" name="setUpAppium" is-config="true" duration-ms="13419" started-at="2018-04-26T18:31:49Z" finished-at="2018-04-26T18:32:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpAppium -->
+        <test-method status="PASS" signature="setUpPage()[pri:0, instance:Tests.WebViewTest@6e06451e]" name="setUpPage" is-config="true" duration-ms="16" started-at="2018-04-26T18:32:02Z" finished-at="2018-04-26T18:32:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpPage -->
+        <test-method status="PASS" signature="navigateTo()[pri:0, instance:Tests.WebViewTest@6e06451e]" name="navigateTo" is-config="true" duration-ms="3515" started-at="2018-04-26T18:32:02Z" finished-at="2018-04-26T18:32:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateTo -->
+        <test-method status="PASS" signature="testWebView()[pri:0, instance:Tests.WebViewTest@6e06451e]" name="testWebView" duration-ms="30807" started-at="2018-04-26T18:32:06Z" finished-at="2018-04-26T18:32:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWebView -->
+        <test-method status="PASS" signature="restartApp()[pri:0, instance:Tests.WebViewTest@6e06451e]" name="restartApp" is-config="true" duration-ms="3946" started-at="2018-04-26T18:32:36Z" finished-at="2018-04-26T18:32:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restartApp -->
+        <test-method status="PASS" signature="tearDownAppium()[pri:0, instance:Tests.WebViewTest@6e06451e]" name="tearDownAppium" is-config="true" duration-ms="2824" started-at="2018-04-26T18:32:40Z" finished-at="2018-04-26T18:32:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAppium -->
+      </class> <!-- Tests.WebViewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
